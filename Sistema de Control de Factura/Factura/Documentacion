@@ -24,7 +24,7 @@ Funcionalidades
 	Login >
 		Objetos: 
 			Textbox: Para el nombre de Usuario
-			MaskedTextbox: Para la contraseña
+			MaskedTextbox: Para la contraseÃ±a
 			Button: Aceptar 
 			Button: Cancelar
 			Label: Para indicarle errores en los datos al usuario
@@ -41,8 +41,8 @@ Funcionalidades
 		
 		private void btnAceptar_Click(object sender, EventArgs e){} >
 			En caso de el textbox y el maskedbox sean iguales a los datos quemados 
-			el valor de Autorizado será verdadero, y cerrara el formulario.
-			Caso contrario cambiará el texto del label, para indicar errores.
+			el valor de Autorizado serÃ¡ verdadero, y cerrara el formulario.
+			Caso contrario cambiarÃ¡ el texto del label, para indicar errores.
 
 		private void btnCancelar_Click(object sender, EventArgs e){}>
 			Finaliza la ejecucion del codigo completo
@@ -57,13 +57,15 @@ Funcionalidades
 
 	***************************************************************************
 	AppManager>
+		internal class AppManager : ApplicationContext
+			Para poder pasar una clase como parametro en program.cs
 
 		SplashScreen(){}>
-			Inicia un objeto de tipo Splash, el cual está dentro de la carpeta GUI.
+			Inicia un objeto de tipo Splash, el cual estÃ¡ dentro de la carpeta GUI.
 
 		private Boolean LoginScreen(){}>
 			Crea un parametro booleano que inicia en falso, mientras el 
-			resultado sea falso no permitirá ejecutar el siguiente objeto. 
+			resultado sea falso no permitirÃ¡ ejecutar el siguiente objeto. 
 
 		 public AppManager(){}>
 			Constructor de AppManager que en base al valor que retorna 
