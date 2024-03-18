@@ -1,0 +1,12 @@
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\bin\Debug\Factura.exe.config
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\bin\Debug\Factura.exe
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\bin\Debug\Factura.pdb
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.GUI.Login.resources
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.exe
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.pdb
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.GUI.Principal.resources
+C:\Users\russe\source\repos\Sistema de Control de Factura\Factura\obj\Debug\Factura.GUI.Splash.resources
